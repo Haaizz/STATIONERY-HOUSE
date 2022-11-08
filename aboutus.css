@@ -1,0 +1,30 @@
+
+body{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: url('bg.jfif') no-repeat;
+    background-size: 100%;
+
+}
+
+#aboutus h2{
+	margin-top: 60px;
+	color: white;
+}
+#aboutus p{
+	margin-top: 25px;
+	color: white;
+}
+.img-wrap{
+	width: 100%;
+}
+.img-wrap img{
+	width: 75%;
+	padding: 10px;
+	border-radius: 50%;
+	box-shadow: 0 0 10px #999999;
+	margin-top: 50px;
+}
+
